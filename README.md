@@ -13,25 +13,24 @@ I'm a student at a vocational school majoring in Network and Computer Engineerin
 
 Here's a list of technologies I'm familiar with:
 
-- **HTML:** Creating the structure of web pages.
-- **CSS:** Styling and designing web pages.
-- **JavaScript:** Making web pages interactive and dynamic.
-- **Tailwind CSS:** Rapidly building user interfaces with utility-first CSS.
-- **ReactJS:** Building user interfaces and single-page applications.
-- **Node.js:** JavaScript runtime for server-side applications.
-- **Express.js:** A Node.js web application framework for building APIs and web applications.
+- **HTML: ** Creating the structure of web pages.
+- **CSS: ** Styling and designing web pages.
+- **JavaScript: ** Making web pages interactive and dynamic.
+- **Tailwind CSS ** Rapidly building user interfaces with utility-first CSS.
+- **ReactJS: ** Building user interfaces and single-page applications.
+- **Node.js: ** JavaScript runtime for server-side applications.
+- **Express.js: ** A Node.js web application framework for building APIs and web applications.
 
 ## Projects
 
 I'm currently working on various projects using my tech stack. You can find them in my repositories. Here are some notable ones:
 
-- [Project 1](link-to-repo): Short description of the project.
-- [Project 2](link-to-repo): Short description of the project.
-- [Project 3](link-to-repo): Short description of the project.
+- [Trailerrr](https://randdevs.github.io/Trailerrr/): Website for search new movies and its trailer.
+- [SkyCast](https://randdevs.github.io/Weather-Web-App/): Website to predict the weather in your city.
 
 Feel free to explore my repositories to see my coding journey and contributions.
 
 ## Contact Me
 
-- 📧 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
--
+- 📧 You can reach me via email at [rafiferanda11@gmail.com](mailto:rafiferanda11@gmail.com).
+- 📷 You can find me on Instagram at [rafi_feranda](https://www.instagram.com/rafi_feranda/).
