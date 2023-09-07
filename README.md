@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi there, I'm Rand! 👋</h1>
 
----
 
 <p align="left">I'm a student at a vocational school majoring in Network and Computer Engineering with a passion for Front-end web development. Welcome to my GitHub profile!</p>
 
