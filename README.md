@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="your-profile-image-url-here" alt="Rand's Profile Image" width="150">
-</p>
 
 <h1 align="center">Hi there, I'm Rand! 👋</h1>
 
-<p align="center">I'm a student at a vocational school majoring in Network and Computer Engineering with a passion for Front-end web development. Welcome to my GitHub profile!</p>
+<p align="left">I'm a student at a vocational school majoring in Network and Computer Engineering with a passion for Front-end web development. Welcome to my GitHub profile!</p>
 
 ---
 
@@ -32,7 +29,7 @@ I'm currently working on various projects using my tech stack. You can find them
 - [Trailerrr](https://randdevs.github.io/Trailerrr/): Website for searching new movies and their trailers.
 - [SkyCast](https://randdevs.github.io/Weather-Web-App/): Website to predict the weather in your city.
 
-Feel free to explore my repositories to see my coding journey and contributions.
+Feel free to explore my repositories to see my coding journey.
 
 ## Contact Me
 
