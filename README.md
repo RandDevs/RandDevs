@@ -13,13 +13,11 @@ I'm a student at a vocational school majoring in Network and Computer Engineerin
 
 Here's a list of technologies I'm familiar with:
 
-- **HTML: ** Creating the structure of web pages.
-- **CSS: ** Styling and designing web pages.
-- **JavaScript: ** Making web pages interactive and dynamic.
-- **Tailwind CSS ** Rapidly building user interfaces with utility-first CSS.
-- **ReactJS: ** Building user interfaces and single-page applications.
-- **Node.js: ** JavaScript runtime for server-side applications.
-- **Express.js: ** A Node.js web application framework for building APIs and web applications.
+- **HTML:** Creating the structure of web pages.
+- **CSS:** Styling and designing web pages.
+- **JavaScript:** Making web pages interactive and dynamic.
+- **Tailwind CSS** Rapidly building user interfaces with utility-first CSS.
+- **ReactJS:** Building user interfaces and single-page applications.
 
 ## Projects
 
